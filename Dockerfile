@@ -1,5 +1,5 @@
 FROM tomcat:8.0
-MAINTAINER sankar
+MAINTAINER om888
 ARG CONT_IMG_VER
 WORKDIR /usr/local/tomcat
 EXPOSE 8080
